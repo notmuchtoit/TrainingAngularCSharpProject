@@ -7,7 +7,7 @@
         public DateTime Date { get; set; }
 
         public int DistanceInMiles { get; set; }
-
+               
         public long TimeInMinutes { get; set; }
     }
 }
